@@ -54,8 +54,9 @@ ros2 topic pub <your_topic> <hit_tab> <hit_tab>
 ##### Some ROS packages
 ```
 ros2 run rqt_graph rqt_graph
-
-ros2 run tf2_tools view_frames 
-
+```
 
 ```
+ros2 run tf2_tools view_frames 
+```
+![Alt text](<Screenshot from 2023-12-05 18-18-55.png>)
